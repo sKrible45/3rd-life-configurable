@@ -1,0 +1,11 @@
+name: ThirdLife
+version: '1.0-SNAPSHOT'
+main: me.sKrible.thirdLife.ThirdLife
+api-version: '1.20'
+commands:
+  givelife:
+    description: "Gives one of your lifes to another player"
+    usage: "/givelife [player]"
+  randomiselives:
+    description: "Randomises everyones lives like in lastlife."
+    usage: "/randomiselivesra"
